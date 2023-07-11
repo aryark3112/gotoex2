@@ -1,0 +1,8 @@
+C:\Users\aryar\OneDrive\Desktop\Practice Exercises\gotoex2\gotoex2\bin\Debug\gotoex2.exe.config
+C:\Users\aryar\OneDrive\Desktop\Practice Exercises\gotoex2\gotoex2\bin\Debug\gotoex2.exe
+C:\Users\aryar\OneDrive\Desktop\Practice Exercises\gotoex2\gotoex2\bin\Debug\gotoex2.pdb
+C:\Users\aryar\OneDrive\Desktop\Practice Exercises\gotoex2\gotoex2\obj\Debug\gotoex2.csproj.AssemblyReference.cache
+C:\Users\aryar\OneDrive\Desktop\Practice Exercises\gotoex2\gotoex2\obj\Debug\gotoex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aryar\OneDrive\Desktop\Practice Exercises\gotoex2\gotoex2\obj\Debug\gotoex2.csproj.CoreCompileInputs.cache
+C:\Users\aryar\OneDrive\Desktop\Practice Exercises\gotoex2\gotoex2\obj\Debug\gotoex2.exe
+C:\Users\aryar\OneDrive\Desktop\Practice Exercises\gotoex2\gotoex2\obj\Debug\gotoex2.pdb
